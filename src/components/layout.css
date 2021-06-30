@@ -1,0 +1,11 @@
+/* global variables */
+:root {
+    --primary-text-color: #3cf20a;
+    --secondary-text-color: #2db009;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    color: var(--primary-text-color);
+}
