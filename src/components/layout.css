@@ -1,11 +1,13 @@
 /* global variables */
 :root {
-    --primary-text-color: #3cf20a;
-    --secondary-text-color: #2db009;
+    --primary-text-color: #EDEDED;
+    --secondary-text-color: #DA0037;
+    --nav-color: #444444;
+    --bkg-color: #171717;
 }
 
 body {
     margin: 0;
-    background-color: black;
+    background-color: var(--bkg-color);
     color: var(--primary-text-color);
 }
